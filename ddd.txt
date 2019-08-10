@@ -3,5 +3,7 @@ public class MainClass {
 
     System.out.println("orders 修改了此文件:create a MainClass类");
 
+    System.out.println("hi github!");
+
     }
 }
