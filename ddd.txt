@@ -1,7 +1,7 @@
 public class MainClass {
     public static viod main(String args[]){
 
-    System.out.println("其他人修改了此文件:创建了一个MainClass类");
+    System.out.println("orders 修改了此文件:create a MainClass类");
 
     }
 }
